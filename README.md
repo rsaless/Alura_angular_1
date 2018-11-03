@@ -10,16 +10,16 @@ Projeto Node com uma web API para o back-end da aplicação
 
 ## Instalação
 
-> git clone https://github.com/rsaless/Alura_angular_1 
-> cd Alura_angular_1  
+> git clone https://github.com/rsaless/Alura_angular_1   
+> cd Alura_angular_1    
 
 ### Alurapic (Angular)
-> cd alurapic
-> npm install
-> ng serve --open
+> cd alurapic  
+> npm install  
+> ng serve --open  
 
 ### API (Node)
-> cd api
-> npm install sqlite3
-> npm install
-> npm start  
+> cd api  
+> npm install sqlite3  
+> npm install  
+> npm start    
